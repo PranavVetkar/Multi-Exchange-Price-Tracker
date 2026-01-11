@@ -31,7 +31,7 @@ This tool fetches and displays the latest market prices of a given trading pair 
 - **Python 3.8+**
 - **CCXT** – Cryptocurrency exchange API library
 - **Pandas** – Data handling & future analytics support
-
+> pip install ccxt pandas
 ---
 
 ## 📦 Installation
